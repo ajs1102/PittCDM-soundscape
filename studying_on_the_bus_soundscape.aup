@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="studying_on_the_bus_soundscape_data" version="1.3.0" audacityversion="2.3.2" sel0="8.6704903600" sel1="196.0872491016" vpos="0" h="0.0000000000" zoom="6.3373209579" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="studying_on_the_bus_soundscape_data" version="1.3.0" audacityversion="2.3.2" sel0="0.0000000000" sel1="198.5889342388" vpos="0" h="0.0000000000" zoom="6.0476682883" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
-	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.354813" pan="0.0" colorindex="0">
-		<waveclip offset="7.67065760" colorindex="0">
+	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="0" linked="1" mute="0" solo="0" height="22" minimized="0" isSelected="1" rate="44100" gain="0.354813" pan="0.0" colorindex="0">
+		<waveclip offset="15.52002268" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="3812722">
 				<waveblock start="0">
 					<simpleblockfile filename="e08088bf.au" len="176665" min="-0.211823" max="0.197906" rms="0.047491"/>
@@ -56,7 +56,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="145.41699560" colorindex="0">
+		<waveclip offset="146.27464852" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2307060">
 				<waveblock start="0">
 					<simpleblockfile filename="e080890a.au" len="238301" min="-0.20871" max="0.217773" rms="0.049396"/>
@@ -89,8 +89,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.354813" pan="0.0" colorindex="0">
-		<waveclip offset="7.67065760" colorindex="0">
+	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="1" linked="0" mute="0" solo="0" height="22" minimized="0" isSelected="1" rate="44100" gain="0.354813" pan="0.0" colorindex="0">
+		<waveclip offset="15.52002268" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="3812722">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808925.au" len="176665" min="-0.159058" max="0.131165" rms="0.030934"/>
@@ -143,7 +143,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="145.41699560" colorindex="0">
+		<waveclip offset="146.27464852" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2307060">
 				<waveblock start="0">
 					<simpleblockfile filename="e080816d.au" len="238301" min="-0.150726" max="0.196838" rms="0.039204"/>
@@ -176,8 +176,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bus Starting (Creaking)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.199526" pan="-0.4" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="Bus Starting (Creaking)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="0.199526" pan="-0.4" colorindex="0">
+		<waveclip offset="7.84936508" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="394883">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808da5.au" len="223925" min="-0.598358" max="0.490479" rms="0.066428"/>
@@ -189,8 +189,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Bus Starting (Creaking)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.199526" pan="-0.4" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="Bus Starting (Creaking)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="0.199526" pan="-0.4" colorindex="0">
+		<waveclip offset="7.84936508" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="394883">
 				<waveblock start="0">
 					<simpleblockfile filename="e08082a9.au" len="223925" min="-0.347443" max="0.305786" rms="0.052191"/>
@@ -203,7 +203,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="379372__13fpanska-sychra-petr__bus-door-opening" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="8.67049036" colorindex="0">
+		<waveclip offset="11.17217550" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96819">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808b9b.au" len="96819" min="-0.233093" max="0.258087" rms="0.022224"/>
@@ -211,7 +211,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="194.07018660" colorindex="0">
+		<waveclip offset="196.57187174" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96819">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808b9b.au" len="96819" min="-0.233093" max="0.258087" rms="0.022224"/>
@@ -221,7 +221,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="379372__13fpanska-sychra-petr__bus-door-opening" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="8.67049036" colorindex="0">
+		<waveclip offset="11.17217550" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96819">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808e4f.au" len="96819" min="-0.315491" max="0.204498" rms="0.02431"/>
@@ -229,7 +229,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="194.07018660" colorindex="0">
+		<waveclip offset="196.57187174" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="96819">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808e4f.au" len="96819" min="-0.315491" max="0.204498" rms="0.02431"/>
@@ -238,8 +238,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
-		<waveclip offset="90.01358277" colorindex="0">
+	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="100.38766440" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2214900">
 				<waveblock start="0">
 					<simpleblockfile filename="e080838d.au" len="238301" min="-0.20871" max="0.217773" rms="0.058559"/>
@@ -272,8 +272,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
-		<waveclip offset="90.01358277" colorindex="0">
+	<wavetrack name="215687__musicbrain__on-the-bus-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="0.281838" pan="0.0" colorindex="0">
+		<waveclip offset="100.38766440" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2214900">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808b9c.au" len="238301" min="-0.166046" max="0.196838" rms="0.046522"/>
@@ -306,8 +306,26 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="thank_you_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="11.44984127" colorindex="0">
+	<wavetrack name="hope" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="220418">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088f5.au" len="220418" min="-0.36622" max="0.267775" rms="0.036566"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="4.99814059" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="130818">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ddc.au" len="130818" min="-0.268926" max="0.23109" rms="0.031514"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="thank_you_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="19.29920635" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="87810">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808bd3.au" len="87810" min="-0.407257" max="0.31076" rms="0.038539"/>
@@ -316,8 +334,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="75 ellsworth" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="7.079458" pan="0.0" colorindex="0">
-		<waveclip offset="8.67049036" colorindex="0">
+	<wavetrack name="75 ellsworth" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="7.079458" pan="0.0" colorindex="0">
+		<waveclip offset="16.51985544" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="163217">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808202.au" len="163217" min="-0.088077" max="0.083411" rms="0.011559"/>
@@ -326,8 +344,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="studying_1_louder" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="2.818383" pan="0.0" colorindex="0">
-		<waveclip offset="17.43823129" colorindex="0">
+	<wavetrack name="studying_1_louder" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="2.818383" pan="0.0" colorindex="0">
+		<waveclip offset="25.28759637" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1973246">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808f7c.au" len="262144" min="-0.147411" max="0.089033" rms="0.01251"/>
@@ -357,8 +375,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="douche_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="57.47047619" colorindex="0">
+	<wavetrack name="douche_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="65.31984127" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="833282">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808d2f.au" len="262144" min="-0.284467" max="0.236191" rms="0.026982"/>
@@ -375,7 +393,7 @@
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
-		<waveclip offset="78.36267574" colorindex="0">
+		<waveclip offset="86.21204082" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="955">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808692.au" len="955" min="0.0" max="0.0" rms="0.0"/>
@@ -384,8 +402,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="annoyed_reaction_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
-		<waveclip offset="62.82553288" colorindex="0">
+	<wavetrack name="annoyed_reaction_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="70.67489796" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="483842">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808ef5.au" len="262144" min="-0.41069" max="0.353305" rms="0.017868"/>
@@ -397,8 +415,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="402817__bus1037__stop-requested" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="11025" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="183.90430839" colorindex="0">
+	<wavetrack name="402817__bus1037__stop-requested" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="11025" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="188.75548753" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="14076">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808dba.au" len="14076" min="-0.758066" max="0.881188" rms="0.15783"/>
@@ -407,8 +425,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="this_is_my_stop_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="5.623413" pan="0.0" colorindex="0">
-		<waveclip offset="179.48210884" colorindex="0">
+	<wavetrack name="this_is_my_stop_1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="5.623413" pan="0.0" colorindex="0">
+		<waveclip offset="183.54439909" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="136194">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808b78.au" len="136194" min="-0.343462" max="0.182429" rms="0.031909"/>
@@ -417,8 +435,8 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="that was close" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
-		<waveclip offset="186.39158730" colorindex="0">
+	<wavetrack name="that was close" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="5.011872" pan="0.0" colorindex="0">
+		<waveclip offset="190.97902494" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="191746">
 				<waveblock start="0">
 					<simpleblockfile filename="e0808c9d.au" len="191746" min="-0.309118" max="0.181184" rms="0.02351"/>
